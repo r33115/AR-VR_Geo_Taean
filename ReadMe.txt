@@ -7,5 +7,3 @@ Unity Version : 2019.1.0f2
 2. Download된 압축파일을 압축해제
 
 3. Unity3D로 압축해제된 폴더를 열람
-
-Test2
